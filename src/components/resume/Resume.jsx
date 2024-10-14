@@ -7,11 +7,11 @@ const Resume = () => {
 
   const internships = [
     {
-      title: "Fullstack Developer Intern",
-      company: "Mentornix Consultancy Pvt Ltd",
-      link: "https://www.mentornix.com/",
-      date: "August 2024 - Present",
-      description: `In my current internship at Mentornix Consultancy Pvt Ltd, I'm working as a Fullstack Developer focusing on frontend development using React.js, and SCSS to create interactive and user-friendly interfaces. Additionally, I'm working on backend APIs using Node.js, Express.js, MySQL, and AWS to enable data storage and retrieval for the application.`,
+      title: "Web Development Bootcamp",
+      company: "EXPLORIN",
+      link:"https://www.explorin.io/",
+      date: "October 2023 - November 2023",
+      description: `As part of the  Web Development Bootcamp at RIT, Roorkee, I completed a Web Development Bootcamp specializing in the MERN stack. The training covered key topics including frontend development with React.js, backend development with Node.js and Express.js, and database management with MongoDB. I gained experience in API integration, user authentication, and application deployment through hands-on projects.`,
     },
     {
       title: "Web Developer Intern",
